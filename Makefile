@@ -33,7 +33,7 @@ sitemap.xml: $(patsubst %.md,%.html,$(wildcard *.md))
 	@chmod 644 $@
 
 push:
-	rsync -Favz . gross.sh:/tmp/grosssh/
+	rsync -Favz --exclude='.git*' . gross.sh:/tmp/grosssh/
 
 # Dont do this without moving static stuff...
 clean:
