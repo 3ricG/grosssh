@@ -1,56 +1,39 @@
-<html>
-  <head>
-  <meta charset="utf-8">
-  <title>GROSS.SH</title>
-    <link rel="icon" type="image/png" href="https://gross.sh/images/gross_sh_g.png" sizes="96x96">
-    <link rel="stylesheet" type="text/css" href="https://gross.sh/style.css" >
-  </head>
-  <body>
+---
+title: Wuyi Origin 2021 Wild Lapsang Souchong 
+date: April 16, 2022
+---
 
-  <div class="center head">
-    <!-- <img src="gross_ooo.png" alt="gross_ooo"/> -->
-    <pre>
-<span class="green">  ▄████  ██▀███   ▒█████    ██████   ██████ </span>    <span class="yellow">   ██████  ██░ ██ </span>
-<span class="green"> ██▒ ▀█▒▓██ ▒ ██▒▒██▒  ██▒▒██    ▒ ▒██    ▒ </span>    <span class="yellow"> ▒██    ▒ ▓██░ ██▒</span>
-<span class="green">▒██░▄▄▄░▓██ ░▄█ ▒▒██░  ██▒░ ▓██▄   ░ ▓██▄   </span>    <span class="yellow"> ░ ▓██▄   ▒██▀▀██░</span>
-<span class="green">░▓█  ██▓▒██▀▀█▄  ▒██   ██░  ▒   ██▒  ▒   ██▒</span>    <span class="yellow">   ▒   ██▒░▓█ ░██ </span>
-<span class="green">░▒▓███▀▒░██▓ ▒██▒░ ████▓▒░▒██████▒▒▒██████▒▒</span> ██▓<span class="yellow"> ▒██████▒▒░▓█▒░██▓</span>
-<span class="green"> ░▒   ▒ ░ ▒▓ ░▒▓░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░▒ ▒▓▒ ▒ ░</span> ▒▓▒<span class="yellow"> ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒</span>
-<span class="green">  ░   ░   ░▒ ░ ▒░  ░ ▒ ▒░ ░ ░▒  ░ ░░ ░▒  ░ ░</span> ░▒ <span class="yellow"> ░ ░▒  ░ ░ ▒ ░▒░ ░</span>
-<span class="green">░ ░   ░   ░░   ░ ░ ░ ░ ▒  ░  ░  ░  ░  ░  ░  </span> ░  <span class="yellow"> ░  ░  ░   ░  ░░ ░</span>
-<span class="green">      ░    ░         ░ ░        ░        ░  </span>  ░ <span class="yellow">       ░   ░  ░  ░</span>
-<span class="green">                                            </span>  ░
-    </pre>
-    <pre><a href="https://gross.sh/index.html">Home</a> | <a href="https://gross.sh/tea.html">Tea</a> | <a href="https://github.com/3ricG">Code</a> | <a href="#">Links</a> | <a href="#">Misc</a></pre>
-  </div>
-  <div class="center body">
-<h2 class="green">Wuyi Origin 2021 Wild Lapsang Souchong</h2>
-<h6>April 16, 2022</h6>
-<hr />
-<a id="brewing-info" href="#brewing_info"><h3>Brewing Info</h3></a>
-<table>
-<tr><td>Leaf</td><td>5.3g</td></tr>
-<tr><td>Temperature</td><td>205°F</td></tr>
-<tr><td>Water</td><td>155ml</td></tr>
-<tr><td>Time</td><td>30-45sec</td></tr>
-<tr><td>Infusions</td><td>6</td></td>
-</table>
+## Wuyi Origin 2021 Wild Lapsang Souchong {.green}
+##### April 16, 2022
 
-<a id="start" href="#start"><h3>Wild Lapsang Souchong 野生小种2021</h3></a>
-<pre>
-I haven't written about any tea recently, and wanted to write something                                        
-for my site that no one will read. I would have opted for a nice fresh   
-green shincha; but since its early in spring, those haven't started       
-shipping yet. Instead, I dug through my stock of tea packets to find     
-something nice to drink. In a bin of samples I had gotten with other     
-orders, I found a small brown packet labeled 'Wild Lapsang Souchong      
-野生小种2021' among many older green tea and puerh samples.     
-</pre>
-<img alt="Lapsang Souchong Packaging" src="https://gross.sh/images/20220416_wild_lapsang/packet.jpg" />
-<pre>
+---
+
+### Brewing Info {#brewing_info .yellow}
+
+----------- --------
+Leaf        5.3g
+Temperature 205°F
+Water       155ml
+Time        30-45sec
+Infusions   6
+----------- --------
+
+### Wild Lapsang Souchong 野生小种2021 {#start .yellow}
+
+I haven't written about any tea recently, and wanted to write something
+for my site that no one will read. I would have opted for a nice fresh
+green shincha; but since its early in spring, those haven't started
+shipping yet. Instead, I dug through my stock of tea packets to find
+something nice to drink. In a bin of samples I had gotten with other
+orders, I found a small brown packet labeled 'Wild Lapsang Souchong
+野生小种2021' among many older green tea and puerh samples.
+
+![Lapsang Souchong Packaging](images/20220416_wild_lapsang/packet.jpg){ width=100%}\
+
 While its not a very spring-style tea, I haven't had a lapsang souchong 
-tea in a while, so I figured it was worth a try. I believe this is <a href="https://www.wuyiorigin.com/products/wild-lapsang-souchong-2021">Wuyi 
-Origin's 2021 Wild Lapsang Souchong</a> that was likely included with some 
+tea in a while, so I figured it was worth a try. I believe this is [Wuyi 
+Origin's 2021 Wild Lapsang Souchong](https://www.wuyiorigin.com/products/wild-lapsang-souchong-2021) 
+that was likely included with some 
 Bai Mudan that I had ordered from them months ago. Over the years, I 
 have tried a few different lapsang souchong teas, and some have not been
 super pleasant. I tend to like the ones with notes of fruit, but many are
@@ -60,10 +43,11 @@ experience. Even some that have gotten better with later infusions have
 sometimes been ruined by the wash or first infusions. I believe that is 
 not the standard people come to expect from this style; but my bad luck 
 has dissuaded me from trying more in recent purchases.
-</pre>
-<a id="dry-leaf" href="#dry-leaf"><h3>Dry Leaf</h3></a>
-<img alt="Dry Leaf" src="https://gross.sh/images/20220416_wild_lapsang/dry.jpg" />
-<pre>
+
+### Dry Leaf {#dry-leaf .yellow}
+
+![Dry Leaf](images/20220416_wild_lapsang/dry.jpg){ width=100% }\
+
 The leaves were very typical of a smoke-dried tea. The leaf was mostly 
 twisted, hard, tight black leaves. Looking closely, some gold and brown 
 showed through the darkness, but only a small amount. Overall the tea 
@@ -78,10 +62,10 @@ citrus. There was a bit of a smokey scent, but not strong enough to
 scare me and remind me of the super smokey teas I've had in the past. 
 The scent honestly was not the most pleasant to me, but wasn't as bad as
 I would expect from a smoke-dried tea.
-</pre>
-<a id="wash" href="#wash"><h3>Wash</h3></a>
-<img alt="Washed Leaf" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/wash_2.jpg" /><img alt="Leaf Wash" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/wash_1.jpg" />
-<pre>
+
+### Wash (#wash .yellow}
+![Washed Leaf](images/20220416_wild_lapsang/wash_2.jpg){ width=50% }![Leaf Wash](images/20220416_wild_lapsang/wash_1.jpg){ width=50% }
+
 The liquor from the wash was a nice golden color, typical of many black 
 teas and lapsang souchong teas. It definitely appeared thicker, and 
 stickier than some washes I've done in the past; and it left bubbles/tea
@@ -96,19 +80,20 @@ notes of raisin and other dried fruit, the wet leaf opened up quite a
 bit, and reminded me of grapes and pears. There was a a bit of piney or
 smokiness as well, but it was very much overshadowed by the fruity notes
 coming from the tea.
-</pre>
-<img alt="Washed Leaf" src="https://gross.sh/images/20220416_wild_lapsang/wash_3.jpg" />
-<pre>
+
+![Washed Leaf](images/20220416_wild_lapsang/wash_3.jpg){ width=100% }\
+
 I did not drink the wash - as I mentioned earlier, I typically don't 
 drink the wash for the smokier lapsang-like teas because it can ruin the
 experience. The wash removes some harshness, and a lot of the smokiness.
 It looked very thick and smooth, and could have had a decent taste; 
 however, I've been disappointed by washes in the past, and figured it 
 was worth waiting for the first true infusion. 
-</pre>
-<a id="first-infusion" href="#first-infusion"><h3>First Infusion</h3></a>
-<img alt="Steeping first infusion" src="https://gross.sh/images/20220416_wild_lapsang/first_1.jpg" />
-<pre>
+
+### First Infusion {#first-infusion .yellow}
+
+![Steeping first infusion](images/20220416_wild_lapsang/first_1.jpg){ width=50% }\
+
 The wet leaf smelled a lot more like pear or peach than it did on the 
 wash. The fruitiness came out much more in this infusion, and any smoke 
 scent had basically disappeared. The color of the leaf also changed. The
@@ -118,9 +103,9 @@ the initial golden liquor from the wash. It does not quite show in the
 pictures, but it was a very deep golden red. The liquid still had the 
 same thick and smooth appearance of the wash, but did not stick to the
 gaiwan in the same way.
-</pre>
-<img alt="First infusion wet leaf" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/first_2.jpg" /><img alt="First infusion sharing cup" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/first_3.jpg" />
-<pre>
+
+![First infusion wet leaf](images/20220416_wild_lapsang/first_2.jpg){ width=50% }![First infusion sharing cup](images/20220416_wild_lapsang/first_3.jpg){ width=50% }
+
 The taste was very clean, with a light but slightly creamy mouthfeel. 
 Similar to the scent, the taste was slightly fruity and a bit floral; 
 but not nearly as fruity as it smelled. It definitely was closer to a 
@@ -129,9 +114,9 @@ expected given the scent. No smokiness at all, which was also a bit
 surprising. If anything, I could maybe taste the floral/vegetal notes 
 from the smoke, but it was extremely subtle.. maybe made up while 
 searching for the smokey flavor!
-</pre>
-<img alt="Tea cup of first infusion" src="https://gross.sh/images/20220416_wild_lapsang/first_4.jpg" />
-<pre>
+
+![Tea cup of first infusion](images/20220416_wild_lapsang/first_4.jpg){ width=100% }\
+
 The liquor leaves a smooth mouthfeel after drinking, with some roundness
 as the tea sticks to the inside of your mouth. There's maybe a touch of 
 astringency and tightness to the tip of your tongue as it finishes, but 
@@ -139,9 +124,9 @@ its an overall pleasant aftertaste. I was extremely surprised at how
 mild this first infusion turned out. I went in expecting smoke and 
 strong flavors until the tea unfurled, but was met with nice fruity 
 flavors.
-</pre>
-<a id="second-plus" href="#second-plus"><h3>Later Infusions</h3></a>
-<pre>
+
+### Later Infusions {#second-plus .yellow}
+
 The second infusion was the same color and flavor overall, but I could 
 smell the wet leaf opening up, with maybe a slightly fruitier scent. 
 Later infusions smelled maybe a bit closer to peach than pear; but still
@@ -152,9 +137,9 @@ the leaves started to really show, and the leaves really started to
 absorb more of the liquid. You could start to see more of the shapes, 
 veins, and stems as the greens started to pop show in the unfurled 
 leaves.
-</pre>
-<img alt="Close up of leaf" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/two_plus_1.jpg" /><img alt="Close up of steep" width="50%" src="https://gross.sh/images/20220416_wild_lapsang/two_plus_2.jpg" />
-<pre>
+
+![Close up of leaf](images/20220416_wild_lapsang/two_plus_1.jpg){ width=50% }![Close up of steep](images/20220416_wild_lapsang/two_plus_2.jpg){ width=50% }
+
 The later infusions had a much lighter sweetness to them. The notes of 
 pear were still there, but not hitting you in the face like they did in 
 the first couple infusions. The mouthfeel obviously lightened up as 
@@ -162,10 +147,11 @@ well; but there was still a slightly smooth, creaminess to it that
 lasted though even some of the very late infusions. I kept steeping 
 until most of the flavor had dissipated, and moved to 45 second 
 infusions by the end.
-</pre>
-<a id="conclusion" href="#conclusion"><h3>Conclusion</h3></a>
-<img alt="Final leaf" src="https://gross.sh/images/20220416_wild_lapsang/final.jpg" />
-<pre>
+
+### Conclusion {#conclusion .yellow}
+
+![Final leaf](images/20220416_wild_lapsang/final.jpg){ width=100% }\
+
 This was a really great tea, and I think the typical lapsang souchong 
 style that people often talk about. I had been burned by cheap and 
 overly smokey lapsang souchongs in the past, which made me go into this
@@ -177,11 +163,10 @@ don't have enough experience with this style to compare "Wild" teas to a
 typical farm-grown tea; but if I venture into this style more, I may 
 make a follow up post to compare and explain the differences. To anyone
 wondering if they should try this out, I'd say it is worth the purchase.
-</pre>
-<hr />
-<a id="references" href="#references"><h4>References</h4></a>
-<ul>
-  <li><b>Wuyi Origin:</b> <a href="https://www.wuyiorigin.com/">wuyiorigin.com</a></li>
-  <li><b>Wild Lapsang Souchong:</b> <a href="https://www.wuyiorigin.com/products/wild-lapsang-souchong-2021">https://www.wuyiorigin.com/products/wild-lapsang-souchong-2021</a></li>
-  <li><b>Gaiwan:</b> <a href="https://yunnansourcing.com/collections/jingdezhen-porcelain-wares/products/de-hua-jade-porcelain-yu-ci-white-gaiwan-130ml">De Hua Jade Porcelain "Yu Ci" White Gaiwan</a> <i>(130ml instead of 155ml)</i></li>
-</ul>
+
+---
+
+#### References {#references .yellow}
+- Wuyi Origin: [wuyiorigin.com](https://www.wuyiorigin.com/)
+- Wild Lapsang Souchong: [www.wuyiorigin.com/products/wild-lapsang-souchong-2021](https://www.wuyiorigin.com/products/wild-lapsang-souchong-2021)
+- Gaiwan: [De Hua Jade Porcelain "Yu Ci" White Gaiwan](https://yunnansourcing.com/collections/jingdezhen-porcelain-wares/products/de-hua-jade-porcelain-yu-ci-white-gaiwan-130ml) _(130ml instead of 155ml)_
