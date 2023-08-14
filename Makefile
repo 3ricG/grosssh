@@ -28,12 +28,9 @@ TEAHTML:=$(patsubst tea/%.md,%.html,$(wildcard tea/*.md))
 all: $(TEAHTML) $(ROOTHTML) favicon.ico
 	@echo Check permissions, then use make push to upload.
 
-#all: $(patsubst %.md,%.html,$(wildcard *.md)) favicon.ico sitemap.xml
-#	@echo Check permissions, then use make push to upload.
-
-#sitemap.xml: $(patsubst %.md,%.html,$(wildcard *.md))
-#	./gensitemap.sh > $@
-#	@chmod 644 $@
+sitemap.xml: $(patsubst %.md,%.html,$(wildcard *.md))
+	./gensitemap.sh > $@
+	@chmod 644 $@
 
 push:
 	rsync -Favz . gross.sh:/tmp/grosssh/
