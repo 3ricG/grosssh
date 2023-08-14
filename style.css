@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "dejavu";
+  src: url(https://gross.sh/fonts/DejaVuSansMono.ttf) format("truetype");
+}
+
+html {
+  width:100%;
+  height:100%;
+  background-color: #101010;
+  /*background-image: url('gross_ooo.png');*/
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+  color: #9c9c9c;
+  font-family: "dejavu", "Lucida Console", monospace, Monaco; 
+}
+
+pre {
+  font-family: "dejavu", "Lucida Console", monospace, Monaco;
+  font-size: 14px;
+  line-height: 1.0;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #c5ba4c;
+}
+
+a:visited {
+  color: #9f963d;
+}
+
+a:hover {
+  color: #567e2f;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li::before {
+  content: '\2058  ';
+}
+
+.center {
+  margin: auto;
+  /*width: 768px;*/
+  width: 38rem;
+}
+
+.head {
+  text-align: center;
+  padding: 10px;
+}
+
+.body {
+  /*border: 1px solid #9c9c9c;*/
+  padding: 10px;
+  min-height: 768px;
+}
+
+.green {
+  color: #567e2f;
+}
+
+.yellow {
+  color: #c5ba4c;
+}
+
+pre.code {
+  white-space: pre-wrap;
+  color: black;
+  background-color: 9c9c9c;
+}
+pre.code::before {
+  counter-reset: listing;
+}
+pre.code code {
+  counter-increment: listing;
+}
+pre.code code::before {
+  content: counter(listing) "|  ";
+  display: inline-block;
+  width: 8em;
+  padding-left: auto;
+  margin-left: auto;
+  text-align: right;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: hidden;
+}
+th {
+  text-align: left;
+  background-color: #c5ba4c;
+  color: #101010;
+}
+th, td {
+  padding: 5px;
+}
+tr {
+  width: 100%;
+  border: 1px solid #9c9c9c;
+}
+td {
+  padding: 5px;
+}
