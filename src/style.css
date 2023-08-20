@@ -84,14 +84,14 @@ a {
    padding:                   10px;
 }
 
-
 body {
-    max-width:                50em;
-    margin:                   auto;
-    font-family:              "dejavu", "Lucida Console", monospace, Monaco;
-    font-size:                0.82em;
-    background-color:         #101010;
-    color:                    #9c9c9c;
+   max-width:                 50em;
+   margin:                    auto;
+   font-family:               "dejavu", "Lucida Console", monospace, Monaco;
+   font-size:                 0.82em;
+   text-align:                justify;
+   background-color:          #101010;
+   color:                     #9c9c9c;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -103,10 +103,26 @@ pre {
    clear:                     both;
    margin-left:               auto;
    margin-right:              auto;
-   display:                   table;
+   display:                   inline-block;
+   text-align:                left;
    line-height:               1.0;
    font-family:              "dejavu", "Lucida Console", monospace, Monaco;
    max-width:                 100vw;
+}
+
+.float-right {
+   float: right;
+   padding: 0.5em 0.5em 0.25em 0.5em;
+}
+
+.float-left {
+   float: left;
+   padding: 0.5em 0.5em 0.25em 0.5em;
+}
+
+.asciiart {
+   display:                   block;
+   text-align:                center;
 }
 
 @media (max-width:700px) {
@@ -151,7 +167,7 @@ ul {
   padding-left: 0;
 }
 
-li::before {
+ul li::before {
   content: '\2058  ';
 }
 

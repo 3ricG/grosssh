@@ -1,27 +1,23 @@
 STYLE=style.css
-PANDOCARGS=--standalone -V title:"" --css=$(STYLE) --email-obfuscation=references --include-in-header=./static_html/head.html --include-before-body=./static_html/header.html --include-after-body=./static_html/footer.html --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables --to=html5
-
+PANDOCARGS=--standalone -V title:"" --css=$(STYLE) --email-obfuscation=references --include-in-header=./static_html/head.html --include-before-body=./static_html/header.html --include-after-body=./static_html/footer.html --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables+inline_notes --to=html5
 STATIC_CONTENT=./static_html/footer.html ./static_html/head.html ./static_html/header.html
 
-%.ico: images/favicon.png
-	convert png:$< ico:$@
-	@chmod 644 $@
+VPATH = posts tea
 
-%.html: tea/%.md $(STATIC_CONTENT) | $(STYLE) 
-	pandoc $(PANDOCARGS) --output=$@ $<
-	head -n 10 $< | { grep -i date || true; }
-	@chmod 644 $@
+all: $(patsubst %.md,%.html,$(notdir $(wildcard *.md) $(wildcard **/*.md))) favicon.ico
+	@echo Check permissions, then use make push to upload.
+
+# TODO: Make rules for "tea toc" and "posts toc" pages
 
 %.html: %.md $(STATIC_CONTENT) | $(STYLE) 
 	pandoc $(PANDOCARGS) --output=$@ $<
 	@chmod 644 $@
 
-ROOTHTML:=$(patsubst %.md,%.html,$(wildcard *.md))
-TEAHTML:=$(patsubst tea/%.md,%.html,$(wildcard tea/*.md))
-all: $(TEAHTML) $(ROOTHTML) favicon.ico
-	@echo Check permissions, then use make push to upload.
+%.ico: images/favicon.png
+	convert png:$< ico:$@
+	@chmod 644 $@
 
-sitemap.xml: $(patsubst %.md,%.html,$(wildcard *.md))
+sitemap.xml: gensitemap.sh $(patsubst %.md,%.html,$(wildcard *.md))
 	./gensitemap.sh > $@
 	@chmod 644 $@
 

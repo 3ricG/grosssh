@@ -9,7 +9,7 @@ cat << __HEADER__
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 __HEADER__
 
-find . -type f -iname '*.html' -printf "<url>
+find . -type f -iname '*.html' -not -path "*static_html*" -printf "<url>
     <loc>${root}/%P</loc>
     <lastmod>%TY-%Tm-%Td</lastmod>
 </url>\n"
