@@ -2,8 +2,6 @@
 title: GROSS.SH
 ---
 
-There's not much here right now. After updating the site, I hope to write more...
-\
 \
 \
 \
