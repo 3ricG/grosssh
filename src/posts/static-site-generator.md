@@ -1,10 +1,10 @@
 ---
 title: Static Website Generation
-date: 2023-08-14
+date: 2023-08-20
 ---
 
 ## Static Website Generation {.green}
-##### August 14, 2023
+##### August 20, 2023
 
 For a number of months/years I've looked on and off for a system to generate static websites. There are a lot of 
 potential scripts and frameworks, and I've tried a number of them - Jekyll^[<https://jekyllrb.com/> - Jekyll is a 
@@ -258,7 +258,7 @@ With the Makefile created, I then had to convert every existing HTML page to Mar
 to do the conversion, doing it manually helped me smooth out some of the weirder aspects of the styling. It also helped
 me get used to the workflow and fix smaller bugs in my Makefile that aren't shown above!
 
-### End {.yellow}
+### The End {.yellow}
 
 In the end, I think I've found what I've been looking for, using tools I already had and some modifications to a site I
 was manually maintaining. I plan to keep the page relatively simple, but I could see myself growing this into some 
