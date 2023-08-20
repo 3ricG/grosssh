@@ -1,5 +1,12 @@
 STYLE=style.css
-PANDOCARGS=--standalone -V title:"" --css=$(STYLE) --email-obfuscation=references --include-in-header=./static_html/head.html --include-before-body=./static_html/header.html --include-after-body=./static_html/footer.html --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables+inline_notes --to=html5
+PANDOCARGS=--standalone -V title:""\
+ --css=$(STYLE)\
+ --email-obfuscation=references\
+ --include-in-header=./static_html/head.html\
+ --include-before-body=./static_html/header.html\
+ --include-after-body=./static_html/footer.html\
+ --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables+inline_notes\
+ --to=html5
 STATIC_CONTENT=./static_html/footer.html ./static_html/head.html ./static_html/header.html
 
 VPATH = posts tea
@@ -8,6 +15,7 @@ all: $(patsubst %.md,%.html,$(notdir $(wildcard *.md) $(wildcard **/*.md))) favi
 	@echo Check permissions, then use make push to upload.
 
 # TODO: Make rules for "tea toc" and "posts toc" pages
+# TODO: Make rule for RSS feed
 
 %.html: %.md $(STATIC_CONTENT) | $(STYLE) 
 	pandoc $(PANDOCARGS) --output=$@ $<

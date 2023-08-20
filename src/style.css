@@ -6,9 +6,9 @@
 }
 
 html {
-  background-color:           #101010;
-  color:                      #9c9c9c;
-  font-family:                "dejavu", "Lucida Console", monospace, Monaco;
+   background-color:          #101010;
+   color:                     #9c9c9c;
+   font-family:               "dejavu", "Lucida Console", monospace, Monaco;
 }
 
 @media (max-width:700px) {
@@ -18,19 +18,19 @@ html {
 }
 
 header, nav, footer {
-    background-color:         #101010;
-    color:                    #9c9c9c;
-    margin:                   1em;
-    padding:                  1em;
+   background-color:          #101010;
+   color:                     #9c9c9c;
+   margin:                    1em;
+   padding:                   1em;
 }
 
 footer {
-    text-align:               center;
+   text-align:                center;
 }
 
 header~* {
-    margin:                   1em;
-    padding:                  1em;
+   margin:                    1em;
+   padding:                   1em;
 }
 
 a {
@@ -95,8 +95,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:              "dejavu", "Lucida Console", monospace, Monaco;
-    clear:                    both;
+   font-family:               "dejavu", "Lucida Console", monospace, Monaco;
+   clear:                     both;
 }
 
 pre {
@@ -106,18 +106,45 @@ pre {
    display:                   inline-block;
    text-align:                left;
    line-height:               1.0;
-   font-family:              "dejavu", "Lucida Console", monospace, Monaco;
+   font-family:               "dejavu", "Lucida Console", monospace, Monaco;
    max-width:                 100vw;
 }
 
+/* Override pandoc defaults for syntax highlighting */
+pre.numberSource {
+   margin-left:               3em;
+   border-left:               none;
+   padding-left:              4px;
+   text-align:                left;
+}
+
+div.code {
+   clear:                     both;
+   margin-left:               auto;
+   margin-right:              auto;
+   display:                   table;
+   padding:                   1em;
+   padding-top:               0.25em;
+   padding-bottom:            0.25em;
+}
+code, div.code {
+   overflow-y:                hidden;
+   background-color:          black;
+   font-family:               "Inconsolata", monospace;
+   border-radius:             0.5em;
+}
+.sourceCode {
+   overflow-y:                hidden;
+}
+
 .float-right {
-   float: right;
-   padding: 0.5em 0.5em 0.25em 0.5em;
+   float:                     right;
+   padding:                   0.5em 0.5em 0.25em 0.5em;
 }
 
 .float-left {
-   float: left;
-   padding: 0.5em 0.5em 0.25em 0.5em;
+   float:                     left;
+   padding:                   0.5em 0.5em 0.25em 0.5em;
 }
 
 .asciiart {
@@ -132,48 +159,48 @@ pre {
 }
 
 object {
-   padding:                  2px;
-   border:                   2px dashed #333;
-   background-color:         #101010;
-   color:                    #9c9c9c;
-   float:                    right;
-   margin-left:              1em;
-   margin-right:             2em;
+   padding:                   2px;
+   border:                    2px dashed #333;
+   background-color:          #101010;
+   color:                     #9c9c9c;
+   float:                     right;
+   margin-left:               1em;
+   margin-right:              2em;
 }
 
 table {
-  width: 100%;
-  border-collapse: collapse;
-  border-style: hidden;
+   width:                     100%;
+   border-collapse:           collapse;
+   border-style:              hidden;
 }
 th {
-  text-align: left;
-  background-color: #c5ba4c;
-  color: #101010;
+   text-align:                left;
+   background-color:          #c5ba4c;
+   color:                     #101010;
 } 
 th, td {
-  padding: 5px;
+   padding:                   5px;
 }
 tr {
-  width: 100%;
-  border: 1px solid #9c9c9c;
+   width:                     100%;
+   border:                    1px solid #9c9c9c;
 }
 td {
-  padding: 5px; 
+   padding:                   5px; 
 }
 
 ul {
-  list-style-type: none;
-  padding-left: 0;
+   list-style-type:           none;
+   padding-left:              0;
 }
 
 ul li::before {
-  content: '\2058  ';
+   content:                   '\2058  ';
 }
 
 .noborder, .noborder * {
-    border:                   none!important;
-    padding:                  0!important;
+   border:                    none!important;
+   padding:                   0!important;
 }
 
 .green {

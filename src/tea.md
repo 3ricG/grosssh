@@ -2,6 +2,7 @@
 title: GROSS.SH - TEA
 ---
 
+<div class="asciiart">
 <pre class="green">
  ▄▄▄▄▄▄████▄▄▄▄▄▄▄▟███▄▄▄▄▄▄▄▄
  ▓███████████████████████████▓
@@ -23,6 +24,7 @@ title: GROSS.SH - TEA
   ░░░         ▒▒░       ░
    ░
 </pre>
+</div>
 
 <dl>
    <dt>April 26, 2022</dt>

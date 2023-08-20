@@ -63,7 +63,7 @@ scare me and remind me of the super smokey teas I've had in the past.
 The scent honestly was not the most pleasant to me, but wasn't as bad as
 I would expect from a smoke-dried tea.
 
-### Wash (#wash .yellow}
+### Wash {#wash .yellow}
 ![Washed Leaf](images/20220416_wild_lapsang/wash_2.jpg){ width=50% }![Leaf Wash](images/20220416_wild_lapsang/wash_1.jpg){ width=50% }
 
 The liquor from the wash was a nice golden color, typical of many black 
