@@ -16,9 +16,8 @@ generator built with JavaScript; more specifically, the React framework. This ad
 out of the box, and allows you to generate sites that work with data from many different sources (even a CMS like 
 WordPress or Drupal).], and Pelican^[<https://getpelican.com/> - Pelican is a simple static site generator written in
 Python. It uses Jinja2 templates for site generation, and has a fairly extensive repo of pre-built themes and plugins
-to extend a basic site] to name a few. 
-
-<b><i><span style="color:red;">ADD A TL;DR style intro to the first paragraph before jumping in...</span></i></b>
+to extend a basic site] to name a few. After all of this searching, I found what I was looking for. It required some
+effort, but works really well for me.
 
 ### The Experiments {.yellow}
 
