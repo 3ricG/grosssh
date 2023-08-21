@@ -129,7 +129,8 @@ div.code {
 }
 code, div.code {
    overflow-y:                hidden;
-   background-color:          black;
+   background-color:          #000000;
+   color:                     #c1bda0;
    font-family:               "Inconsolata", monospace;
    border-radius:             0.5em;
 }
@@ -211,8 +212,11 @@ ul li::before {
    color:                     #c5ba4c;
 }
 
-.center {
-   margin:                    auto;
+img.center {
+   display:                   block;
+   margin-left:               auto;
+   margin-right:              auto;
+   width:                     50%;
 }
 
 a:link {

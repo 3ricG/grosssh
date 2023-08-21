@@ -28,17 +28,16 @@ wrote (very few) tea reviews. I did not write enough for that to be worth the ti
 so I eventually merged that into [my personal site](tea.html). While running these systems, I was constantly worried
 about potential security vulnerabilities, and site outages due to (failed) upgrades to address these issues. With these
 concerns, the obvious jump is to move to a third-party hosted website. That would remove some security concerns (adding
-a different type of new concern) and would basically solve the maintenance issue. I've used a number of hosted solutions
-but these always felt a bit too out of my control, so I've never heavily invested in any of them. My next thought was 
-to jump to a static website generation framework.
+new concerns that the third-party could be compromised) and would basically solve the maintenance issue. I've used a 
+number of hosted solutions but these always felt a bit too out of my control, so I've never heavily invested in any of 
+them. My next thought was to jump to a static website generation framework.
 
-I have used Python and Jinja2 a bunch at work and home for various small templating tasks, so my first thought was to
-look for a tool based on this.![Pelican Site Generator Logo](images/ssg/pelican-logo.svg){ .float-right width=15% } That's how I 
+I have used Python and Jinja2 at work and home for various small templating tasks, so my first thought was to
+look for a tool based on these technologies. That's how I 
 stumbled onto Pelican - it was fairly simple, and built with tooling that I was familiar with. After spending a few 
 hours playing with themes and plugins, I got something close to what I wanted; but felt like I was constantly fighting 
-with the theme when I made small changes. It seemed like over time, with enough theme fighting (this will become a... 
-theme in this post...), this would be ideal for my posting style. Generate a bunch of static html and regenerate when
-I add new content. I also _REALLY_ liked making posts in Markdown. This seemed super convenient and had enough 
+with the theme when I made small changes. It seemed like over time, with enough theme fighting, this would be ideal for
+my posting style. I also _REALLY_ liked making posts in Markdown. This seemed super convenient and had enough 
 flexibility that it could meet my general posting needs. Maybe I could just accept one of the pre-built themes instead 
 of trying to make something more unique? I eventually stopped trying to make Pelican work, and decided to see what 
 "popular" tools people were using to generate plain html sites. I now had one additional feature that I was looking for:
@@ -46,15 +45,17 @@ Markdown or Markdown-like posting syntax.
 
 After reading various blog posts with titles like _TOP 5 STATIC SITE GENERATORS IN 2021_ or _MOST POPULAR STATIC SITE 
 GENERATORS (FREE AND PAID)_, I decided to look into Hugo, GatsbyJS, and Jekyll.
-![Hugo Logo](images/ssg/hugo-logo-wide.svg){ .float-left width=20% } These all had a list of features that seemed 
+These all had a list of features that seemed 
 interesting, various ways to extend them in the future if I wanted, and fairly large userbases. The lists of additional
 plugins and features always seemed tempting to me, even after thinking back to all of the features I didn't use in 
-WordPress. I played with Hugo for a few weeks/months and eventually got something that I liked from a theme and config.
-There was something about the workflow for using Hugo that I didn't like. There seemed to be a bit of "scaffolding" 
-around new posts and content that I didn't like. This was actually common with all of these tools and frameworks, but I
-think I first really noticed it with Hugo.![Gatsby Logo](images/ssg/gatsby-logo.svg){ .float-right width=15% } It wasn't
-even particularly worse than the others; but at this point in my search, I had realized that I still wanted to 
-understand and feel like all of the content I was hosting, uploading, and changing to feel less like "scaffolding" for 
+WordPress and large CMS tools. I played with Hugo for a few weeks/months and eventually got something that I liked from
+a theme and config.
+There was something about the workflow for using Hugo that I didn't like. The "scaffolding" that had to be created
+around new posts felt cumbersome to me, and felt out of place when I was trying to make the site. 
+This was actually common with all of these tools and frameworks, but I
+think I first really noticed it with Hugo. It wasn't
+even particularly worse than the others; but at this point in my search, I had realized that I wasn't liking all of the
+extra content that I had to create to make the site work, and it made me feel like I didn't fully understand
 the system I was using. Looking at the various sites generated with Hugo and GatsbyJS, it seemed like many people were 
 trying to get a site that was a bit less than something you'd get out of a full fledged CMS; but not as basic as a truly
 static page. Additionally with GatsbyJS, it seemed to be getting a bit closer to the larger scale paid solution that was
@@ -62,12 +63,14 @@ kind of the opposite I was going for. I'd likely never upgrade to a paid solutio
 an in various posts, I would likely always have the thought in the back of my mind that I'm missing out on some feature
 (stupid, I know).
 
+![Site Generator Logos](images/ssg/all_gen.png){.center width=75%}\
+
 During this time I also started looking at Jekyll. This seemed really tempting because of the heavy use and integration
 into GitHub Pages^[<https://pages.github.com/> - GitHub repository hosted project websites.]. I had used GitHub Pages 
-for my super simple [OpenSearch Plugins page](https://3ricg.github.io/OpenSearchPlugins/) since it hosting it myself
-felt like overkill. I didn't have to use GitHub to host my website, but the types of sites that people were generating
-seemed to be generally static project pages and simple blogs. It also had the one feature that I kept coming back to: 
-ability to make posts using simple Markdown files. ![Jekyll Logo](images/ssg/jekyll-logo.png){ .float-left width=20% }
+for my super simple [OpenSearch Plugins page](https://3ricg.github.io/OpenSearchPlugins/) since hosting it myself
+felt like overkill. If I went with Jekyll, I wouldn't have to use GitHub to host my personal website just because of the
+integration; and the types of sites that people were generating seemed to be generally static project pages and simple 
+blogs. It also had the one feature that I kept coming back to: generating posts via Markdown files. 
 The themes seemed a bit extensive for my liking, but usable. I would have to fight with the themes just like I had to 
 for all of the other frameworks, but if it ultimately was something I wouldn't touch a lot in the future, it would be 
 worth the initial pain. There were a lot of themes, plugins, and features that were not free (sold/licensed by 
@@ -84,12 +87,12 @@ etc. They all seemed very convoluted and none of the ones I found really worked 
 specific user. I did find a really cool javascript solution to my problem in Markdeep^[<https://casual-effects.com/markdeep/> - 
 a simple javascript file that you can source to turn your plain Markdown files into websites], but never actually tried
 to use it. It _may_ have actually gotten me what I wanted; but it felt almost too absurd to use for my entire site. I 
-can definitely appreciate the technology, as I could appreciate all of the frameworks I tried a lot of work went into
+can definitely appreciate the technology, as I could appreciate all of the frameworks I tried -  a lot of work went into
 each one, they just didn't fit my use case or workflow.
 
 ### The Discovery {.yellow}
 
-A few weeks ago, a someone sent me Tavis Ormandy's [blog post on Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html). I
+A few weeks ago, someone sent me Tavis Ormandy's [blog post on Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html). I
 recommend reading the post if you haven't already - its a great in-depth look at a newly discovered security issue for 
 AMD's Xen 2 processors, [CVE-2023-20593](https://www.cve.org/CVERecord?id=CVE-2023-20593). While reading this post, I 
 couldn't help but notice the simplicity of the website, and wondered what he was using to build his site. Given the 
@@ -108,14 +111,14 @@ basically automates any of the changes and updates.
 
 I think the best part of this solution is that it is built on tools I'm familiar with and will use elsewhere. While it 
 is good to learn new things, I personally don't see a major benefit in learning some of the other frameworks I've tested.
-I could have benefited from learning some Ruby, Go, JavaScript, and other web technologies; but the Tools in Tavis's 
-solution are tools I'll use frequently and remain familiar with, even if I don't post for long periods of time.
+I could have benefited from learning some Ruby, Go, JavaScript, and other web technologies; but the tools in Tavis's 
+solution are ones I'll use frequently and remain familiar with, even if I don't post for long periods of time.
 
 ### The Implementation {.yellow}
 
 Instead of taking an existing solution, this one felt easy enough to do myself, with Tavis's files as a starting point.
 Since he didn't post any kind of license information for the code used to generate his site, I contacted him for 
-permission to reuse some of his code and build on top of it. He told me it was fine to reuse, so I got to work. His
+permission to reuse some of his code and build on top of it. He told me it was fine to reuse, so I got to work.
 
 The first thing I did was generate my page using his style, then started manually merging in my existing style. His 
 style and the default viewport settings generated by `pandoc` helped me a lot. My old website was not mobile friendly at 
@@ -159,7 +162,7 @@ After getting the style to be about what I wanted, I pulled my header out of all
 footer for the page. These could be static html since they're easy enough to manage that way, and don't actually contain
 any data that makes sense to store as Markdown. This was pretty simple, and would give me the flexibility to add or edit
 them without having to modify every single page in my website (manually). The next page I started working on was the 
-[tea](tea.html) page. I had to modify this a bunch while working on the style, so using it s the first conversion to 
+[tea](tea.html) page. I had to modify this a lot while working on the style, so using it as the first conversion to 
 Markdown made sense. Long term, this page and other "listing" pages may be automatically generated based on file metadata
 or though some other method. Since this is a small amount of data, it was easy to start with, and allowed me to also 
 begin modifying the Makefile. Tavis's Makefile was a really good starting point, especially because it gave me a starting
@@ -211,7 +214,7 @@ clean:
 ```
 </div>
 
-I made quite a few modifications to the original, most of them based on how I plan to make my site and future posts. If
+I made quite a few modifications to the original, most of them based on how I plan to make my site and generate future posts. If
 you're familiar with `make`, you can probably skip this paragraph, since what I'm doing may be obvious. The file you see
 now is what I created after a few revisions, but its good enough to start. The first thing to note is the additional 
 `pandoc` arguments. You'll see the header and footer includes, and all of the extensions I use based on the flavor of 
@@ -224,7 +227,7 @@ in their path, and replacing "md" with "html"). The rule for the `%.html` target
 to regenerate any html files if their corresponding markdown or any of the static html is updated. You'll also notice 
 the style is an order-only-prerequisite. This is originally from Tavis's Makefile, but I kept it so that my rule would
 fail if I somehow accidentally deleted the CSS file. This also means that if I update the CSS file, it won't trigger all
-of my html files to be updated, since it the CSS updating is independent of the individual pages. The next two rules I 
+of my html files to be updated, since updating the CSS is independent of the individual pages. The next two rules I 
 left in since they seemed relatively useful.
 
 The gensitemap is also from Tavis's site, with two modifications - a new root, and an updated `find` command to exclude
@@ -261,9 +264,9 @@ me get used to the workflow and fix smaller bugs in my Makefile that aren't show
 ### The End {.yellow}
 
 In the end, I think I've found what I've been looking for, using tools I already had and some modifications to a site I
-was manually maintaining. I plan to keep the page relatively simple, but I could see myself growing this into some 
+was manually maintaining. I plan to keep the page relatively simple, but I could see myself growing this into an
 abomination. You may have already noticed I'm including lots of different things in here to test out the Markdown 
-features - automatic syntax highlighting for multiple different languages, inline code, inline images, and footnotes (If
+features - code blocks with syntax highlighting based on language, inline code, images, and footnotes (If
 I'm being honest with myself the footnotes are completely unecessary on this page). I could also mold this tool into 
 something overly complicated with crazy scripts and pages; making the page just as hard to maintain as it would have 
 been in any of the other frameworks and tools I've tried. If it does come to that, at least it will be familiar to me! 
