@@ -1,3 +1,4 @@
 *.html
 *.ico
 *.xml
+!src/static_html/*.html

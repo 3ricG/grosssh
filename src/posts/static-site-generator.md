@@ -285,3 +285,8 @@ of any posts that contain the metadata block with a publication date, and exclud
 This isn't super important to make, and more of an experiment than something anyone will end up using.
 
 If you made it to the end, thanks for reading, and I hope this post was interesting and useful to you!
+
+## Update - 2023-08-28 {.green}
+
+I made my GitHub repo, so if you'd like to see all the markdown and the Makefile that is used to make my site, you can 
+find it here: https://github.com/3ricG/grosssh
