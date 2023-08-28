@@ -289,4 +289,4 @@ If you made it to the end, thanks for reading, and I hope this post was interest
 ## Update - 2023-08-28 {.green}
 
 I made my GitHub repo, so if you'd like to see all the markdown and the Makefile that is used to make my site, you can 
-find it here: https://github.com/3ricG/grosssh
+find it here: <a href="https://github.com/3ricG/grosssh">https://github.com/3ricG/grosssh</a>
