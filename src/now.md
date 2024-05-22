@@ -4,7 +4,7 @@ title: NOW
 
 # NOW {.green}
 
-##### Updated: 2024-03-28 @ 23:48
+##### Updated: 2024-05-21 @ 23:30
 
 ---
 
@@ -13,11 +13,12 @@ title: NOW
 - Eastward: Octopia
 
 ### 🎧 Listening To {.green}
-- [FANGE - Perdition](https://fange.bandcamp.com/album/perdition)
-- [HORSKH - BODY](https://horskh.bandcamp.com/album/body-2)
-- [Porter Robinson - Nurture](https://soundcloud.com/porter-robinson/sets/nurture)
-- [Chipzel - Spectra](https://chipzelmusic.bandcamp.com/album/spectra)
-- [Sum 41 - All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim?si=9NKDzVsZSFOhzSEASIxf_A)
+- [Aara - Triade II: Hemera](https://aara.bandcamp.com/album/triade-ii-hemera)
+- [Trash80 - Theia](https://trash80.bandcamp.com/album/theia)
+- [Wavedash - Tempo](https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T)
+- [Bouncing Souls - Ten Stories High](https://thebouncingsouls.bandcamp.com/album/ten-stories-high)
+- [Sum 41 - Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF)
+- [Hot Water Music - VOWS](https://endhitsrecords.bandcamp.com/album/vows)
 
 ### 📖 Reading {.green}
 - _Memory's Legion_ by James S.A. Corey
@@ -26,15 +27,25 @@ title: NOW
 ### 📓 Learning {.green}
 - 日本語
 - Esperanto
+- How to make VST3 plugins
 
 ### ⚒️  Working On {.green}
 - [WeeklyBeats](https://weeklybeats.com/mukti)
 - Little CircuitPython projects
 
 \
-My _Playing_, _Reading_, and _Learning_ sections have taken a hit in the past few months as I've started the process of buying a house. Taking a lot of time prepping to move, and learning what it takes to actually buy a house. It's been a bit stressful, but I'll be happy to no longer pay rent! I've managed to still get a few hours into _Eastward_ since it's pretty easy to casually pick up and play. Sadly because of everything else, I haven't started a new PKD book yet; but did start _Memory's Legion_ in some of my spare time. Like _Eastward_, its fairly easy to pick up and read in short bursts since its a collection of short stories rather than a continuous story.
+I've successfully closed on, and moved into, a new home. It has been a very stressful and time consuming process, but I'm extremely happy to be in my own place. I'm still unpacking, but slowly returning to normalcy. Hopefully my _Playing_, _Reading_, and _Learning_ sections will pick back up in activity as the Summer progresses. Between unpacking and preparing for a [triathlon relay](https://www.delmosports.com/events/escape-the-cape-new-jerseys-best-triathlon), it will probably be at least another month until I'm fully back into the swing of things.
 
-Even with everything else going on, I have somehow managed to keep up with [WeeklyBeats](https://weeklybeats.com)! I've written twelve songs, and started a 13th that needs a bit more work and better mixing; but so far no plans to stop. I've used my [M8](https://dirtywave.com/products/m8-tracker) for everything I've written so far, but I'm still planning to use [nanoloop](https://www.nanoloop.com/), [LSDJ](https://www.littlesounddj.com), and [DefleMask](https://www.deflemask.com/) at some point. While I've enjoyed the process, I think its still pretty apparent that my skills are a bit lacking. Once I get done with the home purchase and move, I want to dedicate some more focused time to learning mixing and mastering. I feel like that's the one thing that I'm really struggling with. All of the music I've written so far can be found here: <https://weeklybeats.com/mukti>
+I'm still doing [WeeklyBeats](https://weeklybeats.com) and have made 20 songs at this point. There have been some duds in the bunch, but I'm pretty happy with a few of them. My favorites are probably:
+
+- [BOBENO](https://weeklybeats.com/mukti/music/bobeno) - A chiptune track inspired by my cat, Spool.
+- [ATENTU](https://weeklybeats.com/mukti/music/atentu) - Kind of chill track using samples from videos I recorded in Japan.
+- [ONDO](https://weeklybeats.com/mukti/music/ondo) - Kind of chiptune track, made using the wavsynth on my m8. This was a pretty quick one, but ended up sounding way cooler than I originally expected.
+- [CERBOLAVO](https://weeklybeats.com/mukti/music/cerbolavo-5) - Electronic club track I made while attending [PAX East](https://east.paxsite.com/) in March.
+- [SAKURO](https://weeklybeats.com/mukti/music/sakuro-2) - Really interesting track inspired by the cherry blossoms that were blooming at the time.
+- [FORIGI](https://weeklybeats.com/mukti/music/forigi) - Probably only mentioning this because its my most recent submission, but like ONDO it was a quick one that turned out more interesting that I expected. This was also an interesting track in that I accidentally saved over a previous track that I was working on, so had to build a track last minute.
+
+You might have noticed that all the tracks are named with a bit of a theme - they're all Esperanto words. While I haven't been actively practicing over the past few months, I have been using song titles as a way to play around with the language a bit. I've still been using my [M8](https://dirtywave.com/products/m8-tracker) for everything... but do plan to eventually use other software/tools ([nanoloop](https://www.nanoloop.com/), [LSDJ](https://www.littlesounddj.com), and [DefleMask](https://www.deflemask.com/)). I pre-ordered the [M8 Model:02](https://dirtywave.com/products/m8-tracker-model-02) in the first batch that went on sale, so that will be interesting to switch to in the next month as well.
 
 <svg height="1" width="100" style="display:block;margin:auto;"><line x1="0" y1="0" x2="100" y2="0" stroke="white" /></svg>
 
