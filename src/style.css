@@ -195,6 +195,11 @@ ul {
    padding-left:              0;
 }
 
+/* fix nested lists */
+ul ul {
+    margin-left:              2em;
+}
+
 ul li::before {
    content:                   '\2058  ';
 }
