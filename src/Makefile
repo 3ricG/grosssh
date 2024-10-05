@@ -10,14 +10,12 @@ PANDOCARGS=--standalone -V title:""\
 STATIC_CONTENT=./static_html/footer.html ./static_html/head.html ./static_html/header.html
 MD_FILES=$(notdir $(wildcard *.md) $(wildcard **/*.md))
 HTML_FILES=$(patsubst %.md,%.html,$(MD_FILES))
+TEA_HTML_FILES=$(patsubst %.md,%.html,$(notdir $(wildcard tea/*.md)))
 
 VPATH = posts tea
 
 all: $(HTML_FILES) favicon.ico
 	@echo Check permissions, then use make push to upload.
-
-# TODO: Make rules for "tea toc" and "posts toc" pages
-# TODO: Make rule for RSS feed
 
 %.html: %.md $(STATIC_CONTENT) | $(STYLE) 
 	pandoc $(PANDOCARGS) --output=$@ $<
@@ -29,6 +27,10 @@ all: $(HTML_FILES) favicon.ico
 
 index.md: genindex.sh $(filter-out index.html, $(HTML_FILES))
 	./genindex.sh > $@
+	@chmod 644 $@
+
+tea.md: gentea.sh $(TEA_HTML_FILES)
+	./gentea.sh > $@
 	@chmod 644 $@
 
 push:
