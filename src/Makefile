@@ -8,10 +8,12 @@ PANDOCARGS=--standalone -V title:""\
  --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables+inline_notes\
  --to=html5
 STATIC_CONTENT=./static_html/footer.html ./static_html/head.html ./static_html/header.html
+MD_FILES=$(notdir $(wildcard *.md) $(wildcard **/*.md))
+HTML_FILES=$(patsubst %.md,%.html,$(MD_FILES))
 
 VPATH = posts tea
 
-all: $(patsubst %.md,%.html,$(notdir $(wildcard *.md) $(wildcard **/*.md))) favicon.ico
+all: $(HTML_FILES) favicon.ico
 	@echo Check permissions, then use make push to upload.
 
 # TODO: Make rules for "tea toc" and "posts toc" pages
@@ -25,8 +27,8 @@ all: $(patsubst %.md,%.html,$(notdir $(wildcard *.md) $(wildcard **/*.md))) favi
 	convert png:$< ico:$@
 	@chmod 644 $@
 
-sitemap.xml: gensitemap.sh $(patsubst %.md,%.html,$(wildcard *.md))
-	./gensitemap.sh > $@
+index.md: genindex.sh $(filter-out index.html, $(HTML_FILES))
+	./genindex.sh > $@
 	@chmod 644 $@
 
 push:
