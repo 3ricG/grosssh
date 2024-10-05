@@ -155,7 +155,7 @@ code, div.code {
 
 @media (max-width:700px) {
    pre.asciititle {
-      font-size:              1vh;
+      font-size:              0.75vh;
    }
 }
 
