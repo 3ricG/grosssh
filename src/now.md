@@ -4,7 +4,7 @@ title: NOW
 
 # NOW {.green}
 
-##### Updated: 2024-09-29 @ 20:38
+##### Updated: 2024-10-04 @ 23:32
 
 ---
 
@@ -26,7 +26,7 @@ title: NOW
 ### 📓 Learning {.green}
 - 日本語
 - Esperanto
-- How to make VST3 plugins
+- How to make audio plugins (VST/CLAP/JSFX)
 - [Festival](https://www.cstr.ed.ac.uk/projects/festival/)
 
 ### ⚒️  Working On {.green}
