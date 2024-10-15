@@ -14,8 +14,16 @@ TEA_HTML_FILES=$(patsubst %.md,%.html,$(notdir $(wildcard tea/*.md)))
 
 VPATH = posts tea
 
-all: $(HTML_FILES) favicon.ico
+all: index.html tea.html $(HTML_FILES) favicon.ico
 	@echo Check permissions, then use make push to upload.
+
+index.md: genindex.sh $(filter-out index.html tea.html, $(HTML_FILES))
+	./genindex.sh > $@
+	@chmod 644 $@
+
+tea.md: gentea.sh $(TEA_HTML_FILES)
+	./gentea.sh > $@
+	@chmod 644 $@
 
 %.html: %.md $(STATIC_CONTENT) | $(STYLE) 
 	pandoc $(PANDOCARGS) --output=$@ $<
@@ -23,14 +31,6 @@ all: $(HTML_FILES) favicon.ico
 
 %.ico: images/favicon.png
 	convert png:$< ico:$@
-	@chmod 644 $@
-
-index.md: genindex.sh $(filter-out index.html, $(HTML_FILES))
-	./genindex.sh > $@
-	@chmod 644 $@
-
-tea.md: gentea.sh $(TEA_HTML_FILES)
-	./gentea.sh > $@
 	@chmod 644 $@
 
 push:
