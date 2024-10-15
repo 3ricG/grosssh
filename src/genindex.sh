@@ -21,7 +21,7 @@ __HEADER__
 
 # Giant ugly git command to get sorted list of files I care about
 files=$(\
-   git ls-files -z -- '**.md' ':!:index.md' ':!:now.md' ':!:tea.md' | \
+   git ls-files -z -- '**.md' ':!:index.md' ':!:now.md' ':!:tea.md' ':!:links.md'| \
    xargs -0 -I{} -- sh -c 'git log -1 --format="%at {}" {} | tail -1' | \
    awk '{print $NF}'\
 )
