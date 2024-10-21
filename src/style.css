@@ -37,6 +37,11 @@ a {
    text-decoration:           none;
 }
 
+strong {
+   color: #bdbdbd;
+   font-weight: bolder;
+}
+
 #teatable table,
 #teatable td,
 #teatable tr,
