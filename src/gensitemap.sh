@@ -14,10 +14,10 @@ for f in `find . -type f -iname '*.html' -not -path "*static_html*" -printf "%P\
    lastsec=$(git log --follow --format=%ad --date=format:"%s" $md | head -n 1)
    if [ ! -z "$lastsec" ]; then
       last=$(date +'%Y-%m-%d' -d @$lastsec)
-      echo "<url>"
-      echo "    <loc>${root}/$f</loc>"
-      echo "    <lastmod>${last}</lastmod>"
-      echo "</url>\n"
+      echo "   <url>"
+      echo "       <loc>${root}/$f</loc>"
+      echo "       <lastmod>${last}</lastmod>"
+      echo "   </url>"
    fi
 done
 cat << __FOOTER__
