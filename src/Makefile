@@ -2,7 +2,6 @@ STYLE=style.css
 PANDOCARGS=--standalone -V title:""\
  --css=$(STYLE)\
  --email-obfuscation=references\
- --include-in-header=./static_html/head.html\
  --include-before-body=./static_html/header.html\
  --include-after-body=./static_html/footer.html\
  --from=markdown+header_attributes+gfm_auto_identifiers+simple_tables+inline_notes\

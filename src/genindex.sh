@@ -5,6 +5,8 @@ declare root="https://www.gross.sh"
 cat << __HEADER__
 ---
 title: GROSS.SH
+header-includes:
+   <link rel="me" href="https://mastodon.social/@3ricG">
 ---
 
 \\
