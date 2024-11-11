@@ -14,7 +14,7 @@ TEA_HTML_FILES=$(patsubst %.md,%.html,$(notdir $(wildcard tea/*.md)))
 
 VPATH = posts tea
 
-all: index.html tea.html $(HTML_FILES) favicon.ico
+all: index.html tea.html $(HTML_FILES) favicon.ico sitemap.xml
 	@echo Check permissions, then use make push to upload.
 
 index.md: genindex.sh $(filter-out index.html tea.html, $(HTML_FILES))
@@ -23,6 +23,10 @@ index.md: genindex.sh $(filter-out index.html tea.html, $(HTML_FILES))
 
 tea.md: gentea.sh $(TEA_HTML_FILES)
 	./gentea.sh > $@
+	@chmod 644 $@
+
+sitemap.xml: gensitemap.sh $(HTML_FILES)
+	./gensitemap.sh > $@
 	@chmod 644 $@
 
 %.html: %.md $(STATIC_CONTENT) | $(STYLE) 
