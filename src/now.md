@@ -15,7 +15,7 @@ header-includes:
 
 # NOW {.green}
 
-##### Updated: 2025-01-19 @ 03:00
+##### Updated: 2025-03-02 @ 23:37
 
 ----
 
@@ -25,118 +25,96 @@ header-includes:
 - [TETR.IO](https://tetr.io/)
 
 ### 🎧 Listening To {.green}
-- [Aara - Eiger](https://listenbrainz.org/album/c98818d1-7605-40b2-b992-d09a51cdef5c/)
-- [Aphex Twin - Music From the Merch Desk (2016 - 2023)](https://musicbrainz.org/release/291a4f97-f1e7-4ba8-a6ac-b7c9e84bb11c?tport=8000)
+- [3TEETH - 3TEETH](https://listenbrainz.org/album/3fae022b-1a18-47bb-83a7-58bf047b783c/)
+- [Front Line Assembly](https://musicbrainz.org/release/a8849731-1daa-416a-80d4-8b12e08713e2)
 - [Carpenter Brut - Leather Terror](https://listenbrainz.org/album/e2364ac4-56de-40b5-9eaf-8b4222636d4b/)
-- [The Flashbulb - Kirlian Tapes](https://listenbrainz.org/album/7943bc3e-e645-43cd-82a5-26aa7343d96b/)
-- [Nine Inch Nails - Broken](https://musicbrainz.org/release/a429494f-03c2-4640-8b62-1ec3201d6d34)
-- [Porter Robinson - SMILE! :D](https://musicbrainz.org/release-group/87964290-66b9-4fd9-bea3-1bfe9de92862)
+- [Processor - Purple](https://musicbrainz.org/release/0ac729fe-363e-48be-bad0-eed6a0b15f92)
+- [Processor - Majesty](https://musicbrainz.org/release/adaebb33-92a1-4f8b-83ed-56453f364cb2)
+- [Author & Punisher - Krüller](https://musicbrainz.org/release/4f732151-affe-404c-81fa-92923c319511)
 
 ### 📖 Reading {.green}
 - _[Memory's Legion](https://search.worldcat.org/title/1300408288)_
  by James S.A. Corey
-- _[Dracula](https://search.worldcat.org/title/722444268)_
- by Bram Stoker
+- _[The Cyclist's Training Bible]
+(https://search.worldcat.org/title/1021056346)_ by Joe Friel
+- _[Validation](https://search.worldcat.org/title/1428141080)_
+ by Caroline Fleck
 - _[Pocket Music Theory](https://search.worldcat.org/title/51577325)_
  by Hal Leonard
 
 ### 📓 Learning {.green}
+- pytorch
 - 日本語
+- Lingua Italiana
+- Deutsche Sprache
 - How to make audio plugins (VST/CLAP/JSFX)
-- [Festival](https://www.cstr.ed.ac.uk/projects/festival/)
 
 ### ⚒️  Working On {.green}
 - Electronic/Industrial music ideas
+- pytorch
+- Fitness
 
 ### 🗓️ Planning {.green}
 - Cycling trip to Tuscany (with [inGamba](https://ingamba.pro/))
 - Large group trip to Japan in 2026
 
 \
-2025 is here... its been very cold and dry. The biggest update is that I
-completed [WeeklyBeats 2024](https://weeklybeats.com/)! I'm shocked I
-was able to do it, and I'm proud of the music I was able to make. It
-wasn't the most amazing music; but it was in interesting way to get into
-the habit of doing something creative, and it helped me build a flow and
-familiarity with the synths and tools I used to make all the songs. It
-was nice to not have a deadline for the first two weeks of the year, but
-I do plan to make more music in 2025. I'll likely revisit a few of the
-tracks that I made in 2024, and might put my favorites (remixed and
-refreshed) into an album. I'm also working on some industrial music, but
-no ETA on when that will actually be published anywhere. I need to look
-at platforms like Bandcamp, Soundcloud, and others to figure out
-how/when I would release music. And since WeeklyBeats is over, I'll
-share one last song that I made - the final track,
-[FINO](https://weeklybeats.com/mukti/music/fino). Since it was my last
-song (and inspired by 
-[OrangeDrink](https://weeklybeats.com/orangedrink/music/final-round)), 
-I made a video for it using ffmpeg and shotcut:
+I'm still still working on music, but at a MUCH slower pace than in 
+2024. I plan to release some music this year, but its not clear when or 
+what I will release. Maybe there will be a remix/remaster of some tracks
+I created last year; maybe a "best of" album with my favorites. I've 
+been working on some sort of Industrial/Synthwave tracks, but haven't 
+gotten them to a state I'm happy with yet. They're a bit repetitive and
+need to be built into more full tracks. I also plan to experiment a bit
+with lyrics. I've always struggled with creating good lyrics; though, I
+tried last year for tracks like
+[MIZERA](https://weeklybeats.com/mukti/music/mizera-4),
+[SORCO](https://weeklybeats.com/mukti/music/sorco),
+[FINO](https://weeklybeats.com/mukti/music/fino), and
+[DEVIO](https://weeklybeats.com/mukti/music/devio-2). Making lyrics that
+don't feel cheesy, and get the idea/theme across is difficult when you
+don't write often - its something I need to work on. I still want to
+write up about WeeklyBeats, but I still need some more time to
+reflect on it. Maybe after I make that "best of" album.
 
 
-<iframe style="display:block;margin:0 auto;" width="560" height="315" src="https://www.youtube.com/embed/Dw7UY-VWj10?si=azUth3w7cgQgn7FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+I mentioned this previously on my Now page, but I'm planning a cycling
+tour in Tuscany, and actually booked the trip a couple weeks ago. I
+booked with [inGamba](https://ingamba.pro/), which is a bit expensive,
+but also seems like a pretty cool experience. The only thing you have to
+think about is cycling, everything else is taken care of - travel from
+the airport, meals, bike wash, laundry, daily massage... it's gonna be
+amazing. Since that trip is only going to take a week, I'm debating if I
+want to continue the trip for a week in Rome, or if I want to fly to
+Munich to meet my brother for
+[Oktoberfest](https://www.oktoberfest.de/en). I haven't fully decided on
+the timing, and I'm not sure if my brother will be up to it, but it
+could be fun! I'm also still planning a third trip to Japan for Spring
+2026, but that's far enough away, that I think I still have plenty of
+time to plan.
 
 
-Since that was such an important experience for 2024, I want to
-eventually do a full write up about it; but I'll need some more time to
-reflect on it. Maybe it'll be later this year, preparing for WeeklyBeats
-2026.
+Since I'm planning a week long cycling tour, I decided to focus heavily
+on training, and I've started aggressively working on my fitness. Since
+the weather hasn't been great, I've just been using
+[Zwift](https://www.zwift.com/) and a combination of
+[Recover](https://recoverathletics.com/) and various Yoga videos to
+improve my mobility. Historically I haven't been great at looking at my
+actual fitness, or worried about over/under training. This year, I
+started using [intervals.icu](https://intervals.icu/) to be a bit more
+focused and intentional with my training:
 
+![Intervals.icu Activity View](images/intervals.png){ width=75% }
+![Intervals.icu Fitness View](images/intervals2.png){ width=75% }
 
-Speaking of music, I recently joined a cooperative alternative to
-Bandcamp, [Subvert](https://subvert.fm/). Its an interesting idea, and
-one that I hope succeeds. If you know me and my music habits, you
-probably know that I'm a heavy user of Bandcamp - my collection as of 
-today has 1423 albums in it. I picked up heavily during COVID when they
-started doing [Bandcamp Friday](https://isitbandcampfriday.com/), a day
-when 100% of purchases went to the artists. I continued growing my
-library to what it is today, and I still continue to buy albums there
-because its still my platform of choice. It hasn't gotten to the point
-where I'd abandon it, but in 2022 they were bought by Epic (the game
-developer/publisher), and then in late 2023 they were bought again by
-Songtradr. It's not clear what their plans for it will be; but it does
-feel like things are up in the air, so a cooperative platform
-alternative could be interesting. It will be soft launched later this
-year, so I look forward to seeing how it plays out.
+I plan to work on a specific training plan for inGAMBA once the date
+gets closer. To help with this and improve my understanding of my
+training, I've also started listening to _The Cyclist's Training Bible_.
+I'm hoping to improve my overall understanding of cycling fitness using
+this, and improve my endurance and overall power output.
 
-
-Outside of music, I'm planning some travel. Last year, I did the same
-thing I've done most years and planned vacation poorly; using most of my
-vacation time in the last two months of the year. This year, I'm
-planning to (hopefully) go to Tuscany for a six day cycling tour with 
-[inGamba](https://ingamba.pro/). The only place I've traveled outside of
-the United States is Japan, so I'm excited to visit another new country.
-The cycling tour is six days, but I will likely plan another ~week to
-visit the area after cycling, if it makes sense. This will also be the
-first time doing international solo travel... should be fun!
-
-
-I'm also planning group travel... back to Japan 😅. This will be my
-third trip; but unlike the last two times, this will be with a
-relatively large group of friends instead of just one other person.
-We're planning to go in Spring 2026, but we met up this month to start
-planning. With a group this size (six to nine people), we definitely
-need a bit more coordination. I also want to look at some places that
-are a bit more off the beaten track. Having been to a lot of the major
-tourist attractions, I want to try to dive a bit deeper and force myself
-to be a bit more immersed. Because of this trip, I've stopped learning
-Esperanto for the time indefinitely so that I can put a stronger focus
-back on my Japanese studies. I've picked up the pace using
-(Duolingo)[https://www.duolingo.com/course/ja/en/Learn-Japanese],
-[WaniKani](https://www.wanikani.com/), and
-[https://bunpro.jp/](https://bunpro.jp/) to refresh my existing
-knowledge and start on some new grammar and kanji. Duolingo is
-notoriously bad for Japanese; however, I will likely use it just for
-some supplementary studying in addition to everything else. I also plan
-to continue my lessons from university, using the Eleanor Harz Jorden
-book [Japanese: The Spoken
-Language](https://en.wikipedia.org/wiki/Japanese:_The_Spoken_Language),
-along with [Genki](https://genki3.japantimes.co.jp/en/). I do not even
-expect to be at N5 level by the time we go on the trip, but I do want to
-feel a bit more confident than I did in my 2022 trip.
-
-
-2024 was great, and 2025 has started off good so far - I'm hoping that
-the rest of the year goes well! 
+The first two months of the year have been interesting so far - hoping
+for good things as the year progresses!
 
 <svg height="1" width="100" style="display:block;margin:auto;"><line x1="0" y1="0" x2="100" y2="0" stroke="white" /></svg>
 
