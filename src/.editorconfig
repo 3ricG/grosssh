@@ -1,0 +1,7 @@
+[*.md]
+end_of_line = lf                                                                 
+charset = utf-8
+indent_style = space                                                             
+indent_size = 4
+max_line_length=72
+spelling_languages=en_US.UTF-8
