@@ -15,106 +15,86 @@ header-includes:
 
 # NOW {.green}
 
-##### Updated: 2025-03-02 @ 23:37
+##### Updated: 2025-10-12 @ 23:10
 
 ----
 
 ### 🎮 Playing {.green}
+- [FINAL FANTASY TACTICS - The Ivalice Chronicles](https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us)
 - [Dragon Quest III HD-2D Remake](https://dragonquest.square-enix-games.com/games/en-us/dragon-quest-123-hd2d-remakes/)
-- [Balatro](https://www.playbalatro.com/)
-- [TETR.IO](https://tetr.io/)
 
 ### 🎧 Listening To {.green}
-- [3TEETH - 3TEETH](https://listenbrainz.org/album/3fae022b-1a18-47bb-83a7-58bf047b783c/)
-- [Front Line Assembly](https://musicbrainz.org/release/a8849731-1daa-416a-80d4-8b12e08713e2)
-- [Carpenter Brut - Leather Terror](https://listenbrainz.org/album/e2364ac4-56de-40b5-9eaf-8b4222636d4b/)
-- [Processor - Purple](https://musicbrainz.org/release/0ac729fe-363e-48be-bad0-eed6a0b15f92)
-- [Processor - Majesty](https://musicbrainz.org/release/adaebb33-92a1-4f8b-83ed-56453f364cb2)
-- [Author & Punisher - Krüller](https://musicbrainz.org/release/4f732151-affe-404c-81fa-92923c319511)
+- [Anamanaguchi - Anyway](https://musicbrainz.org/release-group/60696212-ec12-471a-b0ac-623c5827bbca)
+- [Author & Punisher - Nocturnal Birding](https://musicbrainz.org/release-group/7b7ff2a0-bddc-4def-bc3c-8fc3d38bed1d)
+- [Perturbator - Age of Aquarius](https://musicbrainz.org/release-group/d1f15703-adc2-4918-84db-47f5a9c6f034)
+- [HEALTH - Conflict DLC](https://musicbrainz.org/release-group/19cdea2d-9fa3-4e7d-8aac-b255330a26b3)
+- [Blush Response - Ego Death](https://musicbrainz.org/release-group/2b6c1c37-0265-4261-afda-10c8d219786e)
 
 ### 📖 Reading {.green}
 - _[Memory's Legion](https://search.worldcat.org/title/1300408288)_
  by James S.A. Corey
-- _[The Cyclist's Training Bible]
-(https://search.worldcat.org/title/1021056346)_ by Joe Friel
-- _[Validation](https://search.worldcat.org/title/1428141080)_
- by Caroline Fleck
-- _[Pocket Music Theory](https://search.worldcat.org/title/51577325)_
- by Hal Leonard
+- _[Enshittification](https://search.worldcat.org/title/1530163694)_
+ by Cory Doctorow
+- _[How to Destroy Surveillance Capitalism](https://search.worldcat.org/title/1245593437)_
+ by Cory Doctorow
 
 ### 📓 Learning {.green}
-- pytorch
 - 日本語
-- Lingua Italiana
-- Deutsche Sprache
 - How to make audio plugins (VST/CLAP/JSFX)
 
 ### ⚒️  Working On {.green}
 - Electronic/Industrial music ideas
-- pytorch
 - Fitness
 
 ### 🗓️ Planning {.green}
-- Cycling trip to Tuscany (with [inGamba](https://ingamba.pro/))
 - Large group trip to Japan in 2026
 
 \
-I'm still still working on music, but at a MUCH slower pace than in 
-2024. I plan to release some music this year, but its not clear when or 
-what I will release. Maybe there will be a remix/remaster of some tracks
-I created last year; maybe a "best of" album with my favorites. I've 
-been working on some sort of Industrial/Synthwave tracks, but haven't 
-gotten them to a state I'm happy with yet. They're a bit repetitive and
-need to be built into more full tracks. I also plan to experiment a bit
-with lyrics. I've always struggled with creating good lyrics; though, I
-tried last year for tracks like
-[MIZERA](https://weeklybeats.com/mukti/music/mizera-4),
-[SORCO](https://weeklybeats.com/mukti/music/sorco),
-[FINO](https://weeklybeats.com/mukti/music/fino), and
-[DEVIO](https://weeklybeats.com/mukti/music/devio-2). Making lyrics that
-don't feel cheesy, and get the idea/theme across is difficult when you
-don't write often - its something I need to work on. I still want to
-write up about WeeklyBeats, but I still need some more time to
-reflect on it. Maybe after I make that "best of" album.
+It's been a while since I updated my now page, over six months! I didn't
+train as much as I expected, but I still managed to complete the inGamba
+tour in Tuscany. It was an amazing trip, and I'd definitely recommend
+one of their tours to anyone who is looking for a guided cycling trip.
+There were so many amazing routes, long climbs, historical sites, and
+tons of great food. Each ride had a coffee/pastry/food stop about half
+way through, often with local pastries (often with fresh grapes). I did
+the Chianti Classico trip, which was centered around Lecchi in Chianti.
+The area was very rural, but we cycled through lots of other nearby
+small towns. 
 
+![View of Tuscany at night](images/italy/night_tuscany.webp){ width=100% } 
+![Panorama from Volpaia](images/italy/volpaia.webp){ width=100% }
 
-I mentioned this previously on my Now page, but I'm planning a cycling
-tour in Tuscany, and actually booked the trip a couple weeks ago. I
-booked with [inGamba](https://ingamba.pro/), which is a bit expensive,
-but also seems like a pretty cool experience. The only thing you have to
-think about is cycling, everything else is taken care of - travel from
-the airport, meals, bike wash, laundry, daily massage... it's gonna be
-amazing. Since that trip is only going to take a week, I'm debating if I
-want to continue the trip for a week in Rome, or if I want to fly to
-Munich to meet my brother for
-[Oktoberfest](https://www.oktoberfest.de/en). I haven't fully decided on
-the timing, and I'm not sure if my brother will be up to it, but it
-could be fun! I'm also still planning a third trip to Japan for Spring
-2026, but that's far enough away, that I think I still have plenty of
-time to plan.
+The trip was all-inclusive, so every morning you'd have fresh food
+ready for you - oatmeal, yogurt, fruit, croissants and other pastries as
+well as juices and coffee (the staff would make any coffee drink you'd
+like). After the ride, the on-site chef would cook a three course meal,
+or we'd get a multi course meal from one of the restaurants in town,
+[Enoteca Rinaldi](https://maps.app.goo.gl/TQCUXb1pwV1HfM5c6). After some
+relaxing and post-ride massages from our soigneurs, we'd have an 
+aperitivo followed by another three-course meal for dinner prepared by
+the on-site chef. Two of the nights we didn't have dinner at the B&B,
+but instead went to nearby restaurants. All the food was great - tons of
+pasta, lots of fresh ingredients, great cycling fuel.
 
+One day we also took a trip to Sienna and did a guided tour through the
+city, and saw lots of cool historical sites. We also saw Via Santa
+Catarina, the final climb in the Strade Bianche.
 
-Since I'm planning a week long cycling tour, I decided to focus heavily
-on training, and I've started aggressively working on my fitness. Since
-the weather hasn't been great, I've just been using
-[Zwift](https://www.zwift.com/) and a combination of
-[Recover](https://recoverathletics.com/) and various Yoga videos to
-improve my mobility. Historically I haven't been great at looking at my
-actual fitness, or worried about over/under training. This year, I
-started using [intervals.icu](https://intervals.icu/) to be a bit more
-focused and intentional with my training:
+![Via Santa Caterina](images/italy/via_santa_catarina.webp){ width=100% } 
 
-![Intervals.icu Activity View](images/intervals.png){ width=75% }
-![Intervals.icu Fitness View](images/intervals2.png){ width=75% }
+I could write a lot more about the inGamba tour, but I won't do that
+here; maybe I'll make a full post on the site later. After the cycling
+trip was done, I took the Frecciarossa and NightJet to Munich, where I
+met by brother for [Oktoberfest](https://www.oktoberfest.de/en). We also
+did a bunch of other Munich+Germany site seeing, including visits to a
+few different castles.
 
-I plan to work on a specific training plan for inGAMBA once the date
-gets closer. To help with this and improve my understanding of my
-training, I've also started listening to _The Cyclist's Training Bible_.
-I'm hoping to improve my overall understanding of cycling fitness using
-this, and improve my endurance and overall power output.
+![Neuschwanstein Castle](images/italy/neuschwanstein.webp){ width=100% }
+![Alpsee](images/italy/alpsee.webp){ width=100% }
 
-The first two months of the year have been interesting so far - hoping
-for good things as the year progresses!
+It's been a pretty busy year, the Italy+Germany trip being a major
+highlight. I'm hoping to focus a bit more on music and reading in the
+last three months, but we'll see what I can do. 
 
 <svg height="1" width="100" style="display:block;margin:auto;"><line x1="0" y1="0" x2="100" y2="0" stroke="white" /></svg>
 
