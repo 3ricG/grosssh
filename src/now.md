@@ -15,86 +15,88 @@ header-includes:
 
 # NOW {.green}
 
-##### Updated: 2025-10-12 @ 23:10
+##### Updated: 2026-03-15 @ 22:15
 
 ----
 
 ### 🎮 Playing {.green}
-- [FINAL FANTASY TACTICS - The Ivalice Chronicles](https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us)
-- [Dragon Quest III HD-2D Remake](https://dragonquest.square-enix-games.com/games/en-us/dragon-quest-123-hd2d-remakes/)
+- [Clair Obcure: Expedition 33](https://www.expedition33.com/)
+- [NetHack](https://www.nethack.org/)
+- [Balatro](https://www.playbalatro.com/)
 
 ### 🎧 Listening To {.green}
-- [Anamanaguchi - Anyway](https://musicbrainz.org/release-group/60696212-ec12-471a-b0ac-623c5827bbca)
-- [Author & Punisher - Nocturnal Birding](https://musicbrainz.org/release-group/7b7ff2a0-bddc-4def-bc3c-8fc3d38bed1d)
-- [Perturbator - Age of Aquarius](https://musicbrainz.org/release-group/d1f15703-adc2-4918-84db-47f5a9c6f034)
-- [HEALTH - Conflict DLC](https://musicbrainz.org/release-group/19cdea2d-9fa3-4e7d-8aac-b255330a26b3)
-- [Blush Response - Ego Death](https://musicbrainz.org/release-group/2b6c1c37-0265-4261-afda-10c8d219786e)
+- [Nullsleep - Boundary](https://musicbrainz.org/release-group/befbf57c-bd2d-46d4-a0cc-eb28221cf612)
+- [King Yosef - Spire of Fear](https://musicbrainz.org/release-group/c1358a91-9552-449e-8e70-ac5bf1f5d801)
+- [Maenad Veyl - Body Count](https://listenbrainz.org/album/427a86b9-b4b1-4f6e-912d-8047e6b7d972/)
+- [Converge - Love is Not Enough](https://musicbrainz.org/release-group/21465b8f-cf0a-479e-a1f2-e17f41f138bf)
+- [Carpenter Brut - Leather Temple](https://listenbrainz.org/album/613e0ce5-80ac-4875-84a5-562a65f75ee7/)
 
 ### 📖 Reading {.green}
 - _[Memory's Legion](https://search.worldcat.org/title/1300408288)_
  by James S.A. Corey
-- _[Enshittification](https://search.worldcat.org/title/1530163694)_
- by Cory Doctorow
-- _[How to Destroy Surveillance Capitalism](https://search.worldcat.org/title/1245593437)_
- by Cory Doctorow
+- _[Music theory for electronic music producers](https://search.worldcat.org/title/1038020910)_
+ by J.Anthony Allen
+
+##### Want to Read {.green}
+- _[Project Hail Mary](https://search.worldcat.org/title/1336702821)_
+ by Andy Weir
+- _[Ringworld](https://search.worldcat.org/title/5456625)_
+ by Larry Niven
 
 ### 📓 Learning {.green}
 - 日本語
 - How to make audio plugins (VST/CLAP/JSFX)
 
 ### ⚒️  Working On {.green}
+- [Meshtastic](https://meshtastic.org/)
 - Electronic/Industrial music ideas
 - Fitness
 
-### 🗓️ Planning {.green}
-- Large group trip to Japan in 2026
 
 \
-It's been a while since I updated my now page, over six months! I didn't
-train as much as I expected, but I still managed to complete the inGamba
-tour in Tuscany. It was an amazing trip, and I'd definitely recommend
-one of their tours to anyone who is looking for a guided cycling trip.
-There were so many amazing routes, long climbs, historical sites, and
-tons of great food. Each ride had a coffee/pastry/food stop about half
-way through, often with local pastries (often with fresh grapes). I did
-the Chianti Classico trip, which was centered around Lecchi in Chianti.
-The area was very rural, but we cycled through lots of other nearby
-small towns. 
+I've been training all Winter by cycling on a trainer in my basement
+(using Zwift). Spring is nearly hear, and now that I'm riding outside it 
+feels like the training is paying off. I want to be in much better shape
+by the Summer so that I can do well in [the triathlon relay](https://www.delmosports.com/events/escape-the-cape-new-jerseys-best-triathlon)
+that I do with my brother and sister. I'm also hoping to get more than
+3000mi on my bike this year, which I'll only do if I keep my fitness up.
 
-![View of Tuscany at night](images/italy/night_tuscany.webp){ width=100% } 
-![Panorama from Volpaia](images/italy/volpaia.webp){ width=100% }
+Reading and video games have taken a bit of a backburner between cycling,
+music, and work; but I am hoping to read and play some more as the year goes
+on. [PAX East](https://east.paxsite.com/) is happening later this month, so
+that might get me back into a gaming mood. My brother an I were excited to
+try [Marathon](https://marathonthegame.com/); but it turns out that it won't
+work with Linux/Proton, and requires a kernel-level anti-cheat (rootkit) to
+run on Windows. If that ever changes, we may take a look at it.
 
-The trip was all-inclusive, so every morning you'd have fresh food
-ready for you - oatmeal, yogurt, fruit, croissants and other pastries as
-well as juices and coffee (the staff would make any coffee drink you'd
-like). After the ride, the on-site chef would cook a three course meal,
-or we'd get a multi course meal from one of the restaurants in town,
-[Enoteca Rinaldi](https://maps.app.goo.gl/TQCUXb1pwV1HfM5c6). After some
-relaxing and post-ride massages from our soigneurs, we'd have an 
-aperitivo followed by another three-course meal for dinner prepared by
-the on-site chef. Two of the nights we didn't have dinner at the B&B,
-but instead went to nearby restaurants. All the food was great - tons of
-pasta, lots of fresh ingredients, great cycling fuel.
+Just like in 2024, I'm participating in [WeeklyBeats](https://weeklybeats.com/mukti) again
+this year. I've kept up so far with 11 tracks, two of which I did with my
+brother. We're trying to do a collaboration track every month, but if we get
+into a groove, maybe we'll do more. My tracks have a little more "polish"
+than they did early in 2024; but I'm still not the best at mixing, and I've
+been rushing a lot of them. That being said, I still made some fun ones:
 
-One day we also took a trip to Sienna and did a guided tour through the
-city, and saw lots of cool historical sites. We also saw Via Santa
-Catarina, the final climb in the Strade Bianche.
+- [NUMERARE](https://weeklybeats.com/mukti/music/numerare)
+- [IMPARFAIT](https://weeklybeats.com/mukti/music/imparfait-2)
+- [TOKERU](https://weeklybeats.com/mukti/music/tokeru-2) (With Phil!)
+- [MAINTAIN](https://weeklybeats.com/mukti/music/maintain)
+- [AGITPROP](https://weeklybeats.com/mukti/music/agitprop) (With Phil!)
+- [BOBENO KVAR](https://weeklybeats.com/mukti/music/bobeno-kvar)
+- [CATTLE](https://weeklybeats.com/mukti/music/cattle-2)
 
-![Via Santa Caterina](images/italy/via_santa_catarina.webp){ width=100% } 
+You'll notice that I'm not doing the Esperanto theme this year. While I 
+tried in 2024, I never picked up enough of the language, and need to start
+studying again. BOBENO KVAR is Esperanto, but I only used that name to
+continue the naming I had in 2024 for Spool (my cat) themed tracks. In 2025
+I came up with a few tracks that I wanted to turn into an album, but never
+did. I think that after 2026 is over, or maybe part way through the year,
+I'm going to try to clean them up into an actual album. I may also pull
+some of my WB26 tracks to include as well, and get Phil to record some
+guitars.
 
-I could write a lot more about the inGamba tour, but I won't do that
-here; maybe I'll make a full post on the site later. After the cycling
-trip was done, I took the Frecciarossa and NightJet to Munich, where I
-met by brother for [Oktoberfest](https://www.oktoberfest.de/en). We also
-did a bunch of other Munich+Germany site seeing, including visits to a
-few different castles.
-
-![Neuschwanstein Castle](images/italy/neuschwanstein.webp){ width=100% }
-![Alpsee](images/italy/alpsee.webp){ width=100% }
-
-It's been a pretty busy year, the Italy+Germany trip being a major
-highlight. I'm hoping to focus a bit more on music and reading in the
-last three months, but we'll see what I can do. 
+While WB26 will keep me busy, I am also thinking about scheduling another 
+international cycling trip.... we'll see if I end up following through
+with that 😅.
 
 <svg height="1" width="100" style="display:block;margin:auto;"><line x1="0" y1="0" x2="100" y2="0" stroke="white" /></svg>
 
